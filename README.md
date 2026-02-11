@@ -8,3 +8,4 @@
 ## What I’m planning to work on!
 - Hex Minecraft client
 - Complete rewrite of README-Generator with a new HTML based interface
+- Rewrite System-Info-Tool to be fully Python
