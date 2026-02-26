@@ -2,13 +2,13 @@
 
 ## Projects I’m proud of
 
-### README-Generator
+## README-Generator
 A tool for generating README files.
 
-### README-Preview
+## README-Preview
 A small browser-based tool for writing markdown and previewing README files.
 
-### System-Info-Tool
+## System-Info-Tool
 Utility for displaying system information.
 
 ## What I’m planning to work on
