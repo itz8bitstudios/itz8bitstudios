@@ -1,4 +1,4 @@
-#  Yo, I’m Zlorp a Czech dev who codes cool stuff :D
+#  Yo, I’m itz8bitstudios a Czech dev who codes cool stuff :D
 
 ## Projects I’m proud of!
 - README-Generator - a tool for generating README files
