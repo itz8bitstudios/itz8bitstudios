@@ -32,3 +32,6 @@ https://www.reddit.com/user/EmbarrassedBoard6675/
 
 Discord:
 https://discord.com/users/1245021833712107603/
+
+Steam:
+https://steamcommunity.com/id/itz8bitstudios/
