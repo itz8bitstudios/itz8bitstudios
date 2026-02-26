@@ -1,8 +1,6 @@
 # Yo, I’m itz8bitstudios
 A Czech developer who builds cool stuff.
 
----
-
 ## Projects I’m proud of
 
 ### README-Generator  
@@ -14,15 +12,11 @@ A small browser-based tool for writing markdown and previewing README files.
 ### System-Info-Tool  
 Utility for displaying system information.
 
----
-
 ## What I’m planning to work on
 
 - Hex Minecraft client  
 - Complete rewrite of README-Generator with a new HTML-based interface  
 - Rewrite System-Info-Tool to be fully Python  
-
----
 
 ## Links / Socials
 
