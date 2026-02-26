@@ -19,8 +19,7 @@ Utility for displaying system information.
 
 ## Links / Socials
 
-Website (all links + about me):  
-https://itz8bitstudios.carrd.co/
+Website (all links + about me): https://itz8bitstudios.carrd.co/
 
 YouTube:
 https://www.youtube.com/@itz8bitstudios/
