@@ -14,7 +14,7 @@ Utility for displaying system information.
 **What I’m planning to work on**
 
 - Hex Minecraft client
-- Complete rewrite of README-Generator with a new HTML-based interface https://github.com/itz8bitstudios/README-Generator/tree/html
+- Rewrite README-Generator to be fully Html https://github.com/itz8bitstudios/README-Generator/tree/readme-generator-html-rewrite
 - Rewrite System-Info-Tool to be fully Python https://github.com/itz8bitstudios/System-Info-Tool/tree/system-info-python-rewrite
 
 **Links / Socials**
