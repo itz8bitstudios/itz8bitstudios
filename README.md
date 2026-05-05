@@ -12,7 +12,7 @@ A small browser-based tool for writing markdown and previewing README files.
 Utility for displaying system information.
 
 **My issues that im proud of**
-https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1368#event-25170028913
+https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1368#
 
 **My PRs that im proud of**
 https://github.com/fairlearn/fairlearn/pull/1601
